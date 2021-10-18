@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WACE,YACF,CAEA,SACE,aACF,CAEA,QACE,YACF","file":"main.699193a7.chunk.css","sourcesContent":[".goodsList {\n  display: none;\n}\n\n.visible {\n  display: block;\n}\n\n.hidden {\n  display: none;\n}\n"]}
